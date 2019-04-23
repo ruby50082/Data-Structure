@@ -1,4 +1,4 @@
-# Large Number
+# Big Number
 Given integers x, y, i, j, and operators “+-*/”, print from i-th to j-th digits of x “operator” y.
 
 Input
